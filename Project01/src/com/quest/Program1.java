@@ -11,6 +11,9 @@ public class Program1 {
 		
 		int c = a+b;
 		System.out.println("C :: "+c);
+		
+		int d = a-b;
+		System.out.println("D :: "+d);
 	}
 
 }
